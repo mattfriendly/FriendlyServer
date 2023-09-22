@@ -1,0 +1,2 @@
+# FriendlyServer
+Ko-Fi Server
